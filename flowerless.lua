@@ -21,7 +21,7 @@ if not getgenv().SYC then
 end
 
 if not getgenv().load_game then
-    getgenv().load_game = "da_hood"
+    getgenv().load_game = "Free_Client_Script_Executor"
 end
 
 if not isfolder("flowerless") then

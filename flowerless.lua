@@ -6,7 +6,6 @@
         sleeperweda
 
     @description
-        Beware of 🍝 code.
 ]]
 
 local SYC = {
